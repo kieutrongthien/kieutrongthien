@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#3e3d39, #313e3b, #3c6159, #37b397",
+  "FirstName": "Kieu",
+  "MiddleName": "Trong",
+  "LastName": "Thien",
+  "devDesc": " | Full-Stack Web Developer ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/kieutrongthien",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/bieberkieu0903",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/bieberkieu/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/thien-kieu-trong-7239449b/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/bieberkieu/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "bieberkieu",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Born and grew up in Bien Hoa, Dong Nai. When i just a kid, i have had a great passions for computers, games, websites and how are they created ?. From then, when i have free times. I learned how to use them and watch tutorials on Youtube. I created many mods, tools, and special is websites. It take from me a lot of times to build a website. Don’t know why and when ,it became a part of my life.",
+  "projectHeading": "Open Source Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "omaicode",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 8,
+  "showNavigationbar": true,
+  "showBlog": false
+}
