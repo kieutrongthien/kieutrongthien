@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9001795ce3aba50b9c5c5d12a6cc5a25",
+    "revision": "f296514442cd65edc27f09f651430b9b",
     "url": "https://kieutrongthien.github.io/kieutrongthien/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kieutrongthien.github.io/kieutrongthien/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "170d367d8b0be55c1bfc",
+    "revision": "b2447c41d6c6d7cfa996",
     "url": "https://kieutrongthien.github.io/kieutrongthien/static/css/main.5f05969b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kieutrongthien.github.io/kieutrongthien/static/js/2.8fa335fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "170d367d8b0be55c1bfc",
-    "url": "https://kieutrongthien.github.io/kieutrongthien/static/js/main.cb96dd59.chunk.js"
+    "revision": "b2447c41d6c6d7cfa996",
+    "url": "https://kieutrongthien.github.io/kieutrongthien/static/js/main.cf596740.chunk.js"
   },
   {
     "revision": "a82215590ec39fb5e436",
