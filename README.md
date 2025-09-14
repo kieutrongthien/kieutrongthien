@@ -19,5 +19,6 @@
 - My full name: **KIEU TRONG THIEN** (call me Thien, in my country, Thien is my first name and KIEU is my last name)
 - My Email: **thien.kt@omaicode.com**
 - My website: **[https://omaicode.com](https://omaicode.com)**
+- My portfolio: **[https://kieutrongthien.github.io/kieutrongthien](https://kieutrongthien.github.io/kieutrongthien)**
 
 👊 👊 Thank you for visiting my profile 👊👊
