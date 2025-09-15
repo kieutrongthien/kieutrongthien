@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0de95dc4dd8d6d2d9a1d3a88e0ed41a9",
+    "revision": "1dc6e9f142bcba8eb21eae6b912cca5b",
     "url": "/kieutrongthien/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kieutrongthien/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "509e73b3fd078543865e",
+    "revision": "6060d703779ae3d56495",
     "url": "/kieutrongthien/static/css/main.307a871c.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kieutrongthien/static/js/2.8fa335fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "509e73b3fd078543865e",
-    "url": "/kieutrongthien/static/js/main.6a3ff47e.chunk.js"
+    "revision": "6060d703779ae3d56495",
+    "url": "/kieutrongthien/static/js/main.666a3a6e.chunk.js"
   },
   {
     "revision": "c0516ad3bdbd1cd22b32",
     "url": "/kieutrongthien/static/js/runtime-main.39bfa5a1.js"
   },
   {
-    "revision": "20e87a8fdcc9e4843845f44946a9c6b2",
-    "url": "/kieutrongthien/static/media/resume.20e87a8f.pdf"
+    "revision": "0b8c79398cfa7d4cca91c40cd1bc89c1",
+    "url": "/kieutrongthien/static/media/resume.0b8c7939.pdf"
   }
 ]);
