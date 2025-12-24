@@ -16,9 +16,8 @@ I'm available for remote part-time roles under the following conditions:
 - Payments are made every 1–2 weeks.
 
 ## 🚩 How to contact me?
-- My full name: **KIEU TRONG THIEN** (call me Thien, in my country, Thien is my first name and KIEU is my last name)
-- My Email: **thien.kt@omaicode.com**
-- My website: **[https://omaicode.com](https://omaicode.com)**
-- My portfolio: **[https://kieutrongthien.github.io/kieutrongthien](https://kieutrongthien.github.io/kieutrongthien)**
+- Email: **thien.kt@omaicode.com**
+- Website: **[https://omaicode.com](https://omaicode.com)**
+- Portfolio: **[https://kieutrongthien.github.io/kieutrongthien](https://kieutrongthien.github.io/kieutrongthien)**
 
 👊 👊 Thank you for visiting my profile 👊👊
