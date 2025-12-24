@@ -4,16 +4,16 @@
 - 🌐 You can access all my open-sources in here or [OMAICODE](https://github.com/orgs/omaicode/repositories)
 
 ## ⬆ What are my main skills?
-- 🔨 Currently, I'm developing websites on both Frontend & Backend
-- 🌐 Frontend using **HTML, CSS, Javascript** or **VueJS**
-- 🌐 Backend using **PHP and NodeJS** (**Laravel**, **Typescript**)
-- ⭐ I have 5 years of experience developing websites like: Landing Page, Blog, E-Commerce, Dating,...
+- 🔨 I'm currently developing web applications on both the frontend and backend.​
+- 🌐 On the frontend, I work with HTML, CSS, JavaScript, and Vue.js.​
+- 🌐 On the backend, I use PHP and Node.js, mainly with Laravel and TypeScript.​
+- ⭐ I have over 5 years of experience building websites such as landing pages, blogs, e-commerce platforms, and dating sites.
 
 ## 👊 Want to hire me?
-- I will take part-time jobs remotely if:
-+ Flexible time (I only have free times after 17:30 MON - FRI)
-+ In my ability
-+ Payment every 1 or 2 weeks
+I'm available for remote part-time roles under the following conditions:
+- Flexible working hours (I’m only available after 17:30, Monday to Friday).
+- The work fits within my skills and experience.
+- Payments are made every 1–2 weeks.
 
 ## 🚩 How to contact me?
 - My full name: **KIEU TRONG THIEN** (call me Thien, in my country, Thien is my first name and KIEU is my last name)
