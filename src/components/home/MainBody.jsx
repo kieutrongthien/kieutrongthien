@@ -48,7 +48,7 @@ const MainBody = () => {
                 aria-label={`My ${icon.image.split("-")[1]}`}
               >
                 <i
-                  className={`fab ${icon.image}  fa-3x ${hoverstatus[icon.id]}`}
+                  className={`${icon.image === "fa-envelope" ? "fas" : "fab"} ${icon.image}  fa-3x ${hoverstatus[icon.id]}`}
                   onMouseOver={() => toggleHover({ icon, event: "enter" })}
                   onMouseOut={() => toggleHover({ icon, event: "leave" })}
                 />

@@ -5,7 +5,7 @@
   "FirstName": "Kieu",
   "MiddleName": "Trong",
   "LastName": "Thien",
-  "devDesc": " | Full-Stack Engineer | Gamer | Tech Enthusiast | Open Source Contributor ",
+  "devDesc": " | Senior Full-Stack Engineer | Specializing in Web & Mobile Solutions (React, Laravel, Flutter) | Open Source Contributor ",
   "icons": [
     {
       "id": 0,
@@ -15,38 +15,36 @@
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/bieberkieu0903",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/bieberkieu/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/thien-kieu-trong-7239449b/",
       "style": "socialicons"
     },
     {
+      "id": 2,
+      "image": "fa-envelope",
+      "url": "mailto:kieutrongthien@gmail.com",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/bieberkieu0903",
+      "style": "socialicons"
+    },
+    {
       "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/bieberkieu/",
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/bieberkieu/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
-  "instaLink": "https://www.instagram.com/",
-  "instaUsername": "bieberkieu",
-  "instaQuerry": "/?__a=1",
-  "aboutDescription": "Born and raised in Bien Hoa, Dong Nai, I have been passionate about computers, games, and websites since childhood. In my free time, I eagerly explored how they worked by watching tutorials on YouTube and experimenting on my own. Over time, I created various mods, tools, and especially websites, spending countless hours learning and building. What started as a curiosity eventually grew into a lifelong passion for web development and technology.",
+  "showProfilePic": true,
+  "profilePicUrl": "images/profile.jpg",
+  "aboutDescription": "I'm a Full Stack Enginner with over 5 years of experience in the Web / App development. I'm passionate about building scalable, efficient, and user-friendly applications. I have a strong foundation in both front-end and back-end technologies, allowing me to contribute effectively to all stages of the software development lifecycle.",
   "projectHeading": "Open Source Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "omaicode",
+  "gitHubUsername": "kieutrongthien",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 8,
   "showNavigationbar": true,

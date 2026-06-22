@@ -9,6 +9,7 @@ import {
 } from "./editable-stuff/configurations.json";
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
+import Skills from "./components/home/Skills";
 import Outsourcing from "./components/home/Outsourcing";
 import Project from "./components/home/Project";
 import Footer from "./components/Footer";
@@ -21,6 +22,7 @@ const Home = () => {
     <Fragment>
       <MainBody />
       <AboutMe />
+      <Skills />
       <Outsourcing />
       <Project />
     </Fragment>

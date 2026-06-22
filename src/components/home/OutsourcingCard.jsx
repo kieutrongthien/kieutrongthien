@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React from "react";
 
 const ProjectCard = ({ value }) => {
   const { name, description, url, thumbnail, languages } = value;
@@ -6,7 +6,7 @@ const ProjectCard = ({ value }) => {
   return (
     <div className="col-md-4">
       <div className="card shadow-lg mb-5 bg-white rounded">
-        <img src={thumbnail || 'placeholder.png'} style={{objectFit: 'cover', width: 100 + '%', height: 220 + 'px'}}/>
+        <img src={thumbnail ? `${process.env.PUBLIC_URL}/${thumbnail}` : `${process.env.PUBLIC_URL}/placeholder.png`} alt={name} style={{objectFit: 'cover', width: 100 + '%', height: 220 + 'px'}}/>
         <div className="card-body">
           <h5 className="card-title">{name} </h5>
           <div style={{ height: '110px' }}>

@@ -9,7 +9,7 @@ const Project = () => {
         {
             id: 'aegroup',
             name: 'Anh Em Group',
-            description: 'Developed an e-commerce website for PCs, laptops, and accessories using NuxtJS (front-end) and Laravel (back-end).',
+            description: 'Architected and built a high-performance e-commerce platform for PCs and tech accessories using NuxtJS (frontend) and Laravel (backend), integrating complex product filters and secure payment structures.',
             url: 'https://anhemgroup.vn',
             thumbnail: 'images/anhemgroup.png',
             languages: ['NuxtJS', 'Laravel']
@@ -17,7 +17,7 @@ const Project = () => {
         {
             id: 'vikione',
             name: 'Vikione',
-            description: 'Developed a blockchain-inspired platform where users perform daily click-to-mine actions to earn ONE Coin, using Laravel (back-end) and VueJS (front-end).',
+            description: 'Developed a blockchain-inspired daily mining platform supporting heavy user interaction. Engineered high-throughput backend APIs with Laravel and designed a highly reactive, real-time UI with VueJS.',
             url: 'https://mine.vikione.com',
             thumbnail: 'images/vikione.png',
             languages: ['NuxtJS', 'Laravel']
@@ -25,7 +25,7 @@ const Project = () => {
         {
             id: 'gimcheon',
             name: 'Gimechon Design',
-            description: 'Banner reservations management, maintenance & update by customer order.',
+            description: 'Optimized and maintained a banner reservation and booking system, upgrading legacy PHP features to streamline custom reservation workflows.',
             url: 'http://gimcheondesign.com',
             thumbnail: 'images/gimcheon.png',
             languages: ['PHP']
@@ -33,7 +33,7 @@ const Project = () => {
         {
             id: 'meemedia',
             name: 'MeeMedia',
-            description: 'Youtube channels management, analytics, report revenues by monthly, quarterly, annually.',
+            description: 'Developed a comprehensive YouTube channel management dashboard. Engineered data pipeline aggregation to analyze and report revenue monthly, quarterly, and annually using Laravel and VueJS.',
             url: 'https://meemedia.net',
             thumbnail: 'images/meemedia.png',
             languages: ['VueJS', 'Laravel']
@@ -41,31 +41,31 @@ const Project = () => {
         {
             id: 'fowi',
             name: 'Fowi',
-            description: 'Developed Fowi, a dating application with user profiles, matching, and chatting features, implemented using Flutter (mobile) and Laravel back-end APIs.',
+            description: 'Built a cross-platform dating application with user discovery, real-time chatting, and smart matchmaking, leveraging Flutter for mobile and Laravel with Elasticsearch for high-performance backend search queries.',
             url: 'https://fowi.omaicode.com',
             thumbnail: 'images/fowi.png',
-            languages: ['Laravel', 'Elasticsearch']
+            languages: ['Flutter', 'Laravel', 'Elasticsearch']
         },
         {
             id: 'ohrey',
             name: 'OhRey',
-            description: 'Built OhRey, a second-hand fashion marketplace with product listing, searching, buying/selling features, developed using Flutter (mobile) and Laravel back-end APIs.',
+            description: 'Developed a second-hand fashion marketplace with real-time product listings, search engine filters, and trade management using Flutter and Laravel APIs with Elasticsearch.',
             url: 'https://ohrey.vn',
             thumbnail: 'images/ohrey.png',
-            languages: ['Laravel', 'Elasticsearch']
+            languages: ['Flutter', 'Laravel', 'Elasticsearch']
         },
         {
             id: 'kbhero',
             name: 'KB Hero',
-            description: 'Developed KB Hero, a mobile app for kids to exchange and share toys safely, with features for listing, searching, and requesting items, built using Flutter and Laravel API.',
+            description: 'Designed and developed a toy-sharing mobile application for children to barter toys safely. Built with Flutter, backed by robust Laravel APIs.',
             url: 'https://kbhero.omaicode.com',
             thumbnail: 'images/kbhero.png',
-            languages: ['Laravel']
+            languages: ['Flutter', 'Laravel']
         },
         {
             id: 'project-hub',
             name: 'ProjectHub',
-            description: 'Developed ProjectHub, a job portal connecting Vietnamese developers with Korean companies, featuring job posting, search, and application management, built with Laravel.',
+            description: 'Engineered a specialized job portal linking Vietnamese developers with Korean enterprises, featuring job postings, application workflows, and recruitment management using Laravel.',
             url: 'https://project-hub.omaicode.com',
             thumbnail: 'images/project-hub.png',
             languages: ['Laravel']
@@ -73,7 +73,7 @@ const Project = () => {
         {
             id: 'empi',
             name: 'Empleos Internacional',
-            description: 'Built Empleos Internacional, a recruitment consulting website dedicated to hiring talents from Mexico and Canada through TN visa for manufacturing and large-scale workforce solutions, developed with Laravel using OCMS.',
+            description: 'Built a recruitment consultancy portal targeting labor hiring from Mexico/Canada, implementing an automated TN visa application consulting pipeline with Laravel and OCMS.',
             url: 'https://empi.omaicode.com',
             thumbnail: 'images/empi.png',
             languages: ['Laravel', 'OCMS']
@@ -81,7 +81,7 @@ const Project = () => {
         {
             id: 'duhocnova',
             name: 'Nova - Study Abroad',
-            description: 'Built Nova - Study Abroad, a platform providing information and resources for students looking to study abroad, developed with Laravel.',
+            description: 'Created a detailed study-abroad information portal and resource hub using Laravel and OCMS to facilitate student enrollment and program search.',
             url: 'https://duhocnova.omaicode.com',
             thumbnail: 'images/duhocnova.png',
             languages: ['Laravel', 'OCMS']
@@ -89,7 +89,7 @@ const Project = () => {
         {
             id: 'tmentor',
             name: 'T-Mentor',
-            description: 'Developed a Korean real estate website focusing on secure Jeonse (long-term rental deposit) contracts, ensuring user-friendly property search and contract management features',
+            description: 'Built a Korean real estate platform specialized in secure Jeonse (deposit-based rent) contracts, implementing property searches and verified agreement tracking using Laravel and OCMS.',
             url: 'https://t-mentor.omaicode.com',
             thumbnail: 'images/tmentor.png',
             languages: ['Laravel', 'OCMS']
@@ -97,7 +97,7 @@ const Project = () => {
         {
             id: 'adoskr',
             name: 'ADOS Korea',
-            description: 'Developed ADOS.kr, a Korean telecommunications website providing service information, customer support, and online inquiries.',
+            description: 'Developed ADOS.kr, a customer support and inquiries portal for a Korean telecommunications provider, using Laravel and OCMS.',
             url: 'https://ados.omaicode.com',
             thumbnail: 'images/ados.png',
             languages: ['Laravel', 'OCMS']
